@@ -1,0 +1,11 @@
+html css
+javascript
+React
+
+Update AnC mainpage
+Golang/Rust
+
+Portals
+Rest
+Grapgql
+system design
