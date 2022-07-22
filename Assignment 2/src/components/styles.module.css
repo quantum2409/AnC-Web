@@ -1,0 +1,31 @@
+.rowElement {
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px;
+}
+
+.columnElement {
+    display: flex; 
+    flex-direction: column; 
+    gap: 0px;
+}
+
+.sqElement {
+    width: 35px;
+    height: 35px;
+    background-color: beige;
+    border: 1px solid black;
+    padding: 0px;
+    margin: 0px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.central {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
